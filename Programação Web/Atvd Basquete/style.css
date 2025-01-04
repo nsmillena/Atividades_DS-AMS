@@ -1,0 +1,23 @@
+h1{
+background-color: orange;
+text-align: center;
+font-size:40px;
+padding-bottom: 10px;
+}
+body{
+    background-image: url(fundo.jfif);
+}
+header{
+    background-color: antiquewhite;
+}
+img:hover{
+    transform: rotate(-5deg);
+    border: 5px double gold;
+}
+span{
+    text-decoration: underline;
+    color: rgb(255, 115, 0);
+}
+ul{
+    background-color: antiquewhite;
+}

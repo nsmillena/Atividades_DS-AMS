@@ -1,0 +1,19 @@
+p {
+    font-size: 14px;
+    font-family:Tahoma;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+p.amarelo {
+    background-color: #ff9;
+   
+    }
+    p.azul {
+        background-color: #66CCFF;
+        
+    }
+    p.verde {
+        background-color: #99FF66;
+       
+    }

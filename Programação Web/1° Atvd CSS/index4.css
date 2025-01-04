@@ -1,0 +1,21 @@
+body {
+    background-color: darkblue;
+}
+
+h1 {
+color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-decoration: underline;
+text-decoration-color: red;
+text-decoration-style: dotted;
+margin-left: 10px;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.705);
+    border: solid rgba(255, 255, 255, 0.705);
+    font-family: 'monaco';
+    margin: 10px;
+    padding: 20px;
+
+}
