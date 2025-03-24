@@ -3,12 +3,11 @@ import javax.swing.*;
 import java.awt.*;
 
 public class ExemploJTextField extends JFrame {  
-    
     JLabel rotulo1,rotulo2,rotulo3,rotulo4;
     JTextField texto1,texto2,texto3,texto4;
-    
     public ExemploJTextField(){
-        
+    
+  
         super("Exemplo com JTextField");
         Container tela = getContentPane();
         setLayout(null);
