@@ -18,5 +18,7 @@ public class TestePessoa {
         
         // Exibe as informações do professor
         pro.mostrarInfo();
+        
+        
     }
 }
